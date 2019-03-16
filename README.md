@@ -1,7 +1,20 @@
-# ng2-quiz
+Quizzer
+This project was generated with Angular CLI version 6.2.1.
 
-A general purpose quiz application developed in angular 6 that can be used for multiple purpose.
-+
-+For detailed documentation, please go to: https://www.codeproject.com/Articles/1167451/Quiz-Application-in-Angular
+Development server
+Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
 
-### Please raise a pull request for any bug fix or if you have implemented a new feature and feel it is useful.
+Code scaffolding
+Run ng generate component component-name to generate a new component. You can also use ng generate directive|pipe|service|class|guard|interface|enum|module.
+
+Build
+Run ng build to build the project. The build artifacts will be stored in the dist/ directory. Use the --prod flag for a production build.
+
+Running unit tests
+Run ng test to execute the unit tests via Karma.
+
+Running end-to-end tests
+Run ng e2e to execute the end-to-end tests via Protractor.
+
+Further help
+To get more help on the Angular CLI use ng help or go check out the Angular CLI README.
